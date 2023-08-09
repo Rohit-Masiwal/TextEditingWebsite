@@ -9,6 +9,16 @@ The system can perform the following operations:\
 ➢ Copy Text: It removes a new line in the text.\
 ➢ Remove Extra Space: It removes numbers from the text.\
 
+# Snapshots
+Uppercase:
+<img width="1465" alt="Screenshot 2023-08-08 at 9 17 47 PM" src="https://github.com/Rohit-Masiwal/TextEditingWebsite/assets/88874168/d262abed-cf9c-4e7a-a8df-ca4ef3122e50">
+
+Dark mode:
+<img width="1470" alt="Screenshot 2023-08-08 at 9 18 00 PM" src="https://github.com/Rohit-Masiwal/TextEditingWebsite/assets/88874168/4b0a48c3-e13e-4a9a-b7c5-02119c63bc7a">
+
+Light mode:
+<img width="1466" alt="Screenshot 2023-08-08 at 9 18 07 PM" src="https://github.com/Rohit-Masiwal/TextEditingWebsite/assets/88874168/52ca5035-5c6b-47bb-8a4a-4a23be97f5a4">
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
