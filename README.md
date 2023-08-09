@@ -7,7 +7,7 @@ The system can perform the following operations:\
 ➢ Lowercase: It will convert the text into lowercase\
 ➢ Clear Text: It will remove the spaces in the text.\
 ➢ Copy Text: It removes a new line in the text.\
-➢ Remove Extra Space: It removes numbers from the text.\
+➢ Remove Extra Space: It removes numbers from the text.
 
 # Snapshots
 Uppercase:
